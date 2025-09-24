@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/anruag_mac_mini/projects/green-commit-tracker/daily_commit.py': [Errno 2] No such file or directory
