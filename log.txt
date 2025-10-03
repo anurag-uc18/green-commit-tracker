@@ -1,1 +1,239 @@
 /Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/anruag_mac_mini/projects/green-commit-tracker/daily_commit.py': [Errno 2] No such file or directory
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/anruag_mac_mini/projects/green-commit-tracker/daily_commit.py': [Errno 2] No such file or directory
+[main 73849ac] Daily commit on 2025-09-23 22:41:00
+ 1 file changed, 1 insertion(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   e201b86..73849ac  main -> main
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[main acf88d3] Daily commit on 2025-09-24 11:04:32
+ 1 file changed, 5 insertions(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at acf88d36f16cd3e8c596829fb82d7742e435fccb but expected 73849ac09b6b41e99f4592f1a41bfcde8defbe0b)
+error: failed to push some refs to 'https://github.com/anurag-uc18/green-commit-tracker.git'
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   73849ac..acf88d3  main -> main
+To https://github.com/anurag-uc18/green-commit-tracker.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at acf88d36f16cd3e8c596829fb82d7742e435fccb but expected 73849ac09b6b41e99f4592f1a41bfcde8defbe0b)
+error: failed to push some refs to 'https://github.com/anurag-uc18/green-commit-tracker.git'
+To https://github.com/anurag-uc18/green-commit-tracker.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at acf88d36f16cd3e8c596829fb82d7742e435fccb but expected 73849ac09b6b41e99f4592f1a41bfcde8defbe0b)
+error: failed to push some refs to 'https://github.com/anurag-uc18/green-commit-tracker.git'
+To https://github.com/anurag-uc18/green-commit-tracker.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at acf88d36f16cd3e8c596829fb82d7742e435fccb but expected 73849ac09b6b41e99f4592f1a41bfcde8defbe0b)
+error: failed to push some refs to 'https://github.com/anurag-uc18/green-commit-tracker.git'
+[test bd169ee] Daily commit on 2025-09-26 11:00:00
+ 1 file changed, 1 insertion(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   acf88d3..bd169ee  test -> test
+[test 68c3685] Daily commit on 2025-09-26 11:01:00
+ 1 file changed, 1 insertion(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   bd169ee..68c3685  test -> test
+[test 4936663] Daily commit on 2025-09-26 11:02:27
+ 1 file changed, 1 insertion(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   68c3685..4936663  test -> test
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[test 26b693a] Daily commit on 2025-09-26 11:07:40
+ 1 file changed, 2 insertions(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   4936663..26b693a   ! [remote rejected] test -> testtest -> test
+ (cannot lock ref 'refs/heads/test': is at 26b693a43f128f8f5604d224472b9b81de62aff9 but expected 49366639a50e4f6e1a4095272f4d9ce87445cd42)
+error: failed to push some refs to 'https://github.com/anurag-uc18/green-commit-tracker.git'
+[test 64e60e7] Daily commit on 2025-09-27 11:00:26
+ 1 file changed, 1 insertion(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   26b693a..64e60e7  test -> test
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[test 9a8ab5a] Daily commit on 2025-09-27 11:04:18
+ 1 file changed, 4 insertions(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+ ! [remote rejected] test -> test (cannot lock ref 'refs/heads/test': is at 9a8ab5ac4eb1abdbaef95659c3eba00b0935c561 but expected 64e60e79f9fb0ac322c11821b3982120f2408474)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+error: failed to push some refs to 'https://github.com/anurag-uc18/green-commit-tracker.git'
+   64e60e7..9a8ab5a  To https://github.com/anurag-uc18/green-commit-tracker.git
+ ! [remote rejected] test -> testtest -> test (
+cannot lock ref 'refs/heads/test': is at 9a8ab5ac4eb1abdbaef95659c3eba00b0935c561 but expected 64e60e79f9fb0ac322c11821b3982120f2408474)
+error: failed to push some refs to 'https://github.com/anurag-uc18/green-commit-tracker.git'
+To https://github.com/anurag-uc18/green-commit-tracker.git
+ ! [remote rejected] test -> test (cannot lock ref 'refs/heads/test': is at 9a8ab5ac4eb1abdbaef95659c3eba00b0935c561 but expected 64e60e79f9fb0ac322c11821b3982120f2408474)
+error: failed to push some refs to 'https://github.com/anurag-uc18/green-commit-tracker.git'
+[test cc17258] Daily commit on 2025-09-29 11:00:23
+ 1 file changed, 1 insertion(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   9a8ab5a..cc17258  test -> test
+[test f515fc4] Daily commit on 2025-09-29 11:01:01
+ 1 file changed, 1 insertion(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   cc17258..f515fc4  test -> test
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/anurag_mac_mini/projects/green-commit-tracker/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[test ff687b7] Daily commit on 2025-09-29 11:07:47
+ 1 file changed, 3 insertions(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   f515fc4..ff687b7  test -> test
+To https://github.com/anurag-uc18/green-commit-tracker.git
+ ! [remote rejected] test -> test (cannot lock ref 'refs/heads/test': is at ff687b72271b598c82b088cbc606f905cc227d17 but expected f515fc40b8ea67009f503e8fc10f4d1117514a69)
+error: failed to push some refs to 'https://github.com/anurag-uc18/green-commit-tracker.git'
+To https://github.com/anurag-uc18/green-commit-tracker.git
+ ! [remote rejected] test -> test (cannot lock ref 'refs/heads/test': is at ff687b72271b598c82b088cbc606f905cc227d17 but expected f515fc40b8ea67009f503e8fc10f4d1117514a69)
+error: failed to push some refs to 'https://github.com/anurag-uc18/green-commit-tracker.git'
+[test 3360939] Daily commit on 2025-09-30 11:00:01
+ 1 file changed, 1 insertion(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   ff687b7..3360939  test -> test
+[test ff4f904] Daily commit on 2025-09-30 11:01:01
+ 1 file changed, 1 insertion(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   3360939..ff4f904  test -> test
+[test ef0360d] Daily commit on 2025-09-30 11:02:00
+ 1 file changed, 1 insertion(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   ff4f904..ef0360d  test -> test
+[test 2c18ab9] Daily commit on 2025-09-30 11:03:00
+ 1 file changed, 1 insertion(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   ef0360d..2c18ab9  test -> test
+[test ff846d9] Daily commit on 2025-09-30 11:04:01
+ 1 file changed, 1 insertion(+)
+To https://github.com/anurag-uc18/green-commit-tracker.git
+   2c18ab9..ff846d9  test -> test
